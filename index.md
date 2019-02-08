@@ -13,7 +13,7 @@
 ### <u> OTHER THINGS </u>
 <p>
 	<ul>
-	<li>I went to summer school in China, where she studied programming and English.</li>
+	<li>I went to summer school in China, where studied programming and English.</li>
     <li> I was the Chairman of the student Council for two years.</li>
     </ul> 
 </p>
