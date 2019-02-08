@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
-title: Welcome to my homepage!
-description: I don't know what to write here yet.
+title: Welcome!
+description: This page is my first step in learning.
+img
+{
+  align : center;
+}
