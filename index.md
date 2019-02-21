@@ -24,6 +24,10 @@ FancuCalc : https://github.com/HelenSolovey/FancyCalc
 
 PadawansTask2: https://github.com/HelenSolovey/PadawansTask2
 
+PadawansTask4: https://github.com/HelenSolovey/-PadawansTask4
+
+PadawansTask5: https://github.com/HelenSolovey/PadawansTask5
+
 
 
 
