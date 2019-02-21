@@ -20,13 +20,18 @@
 
 ### <u> TASKS </u> 
 #### PADAWANS:
-FancuCalc : https://github.com/HelenSolovey/FancyCalc
+<a href = "https://github.com/HelenSolovey/FancyCalc">FancyCalc</a>
 
-PadawansTask2: https://github.com/HelenSolovey/PadawansTask2
+<a href = "https://github.com/HelenSolovey/PadawansTask2">PadawansTask2</a>
+ 
+<a href = "https://github.com/HelenSolovey/-PadawansTask4">PadawansTask4</a>
 
-PadawansTask4: https://github.com/HelenSolovey/-PadawansTask4
+<a href = "https://github.com/HelenSolovey/-PadawansTask5">PadawansTask5</a>
 
-PadawansTask5: https://github.com/HelenSolovey/PadawansTask5
+<a href = "https://github.com/HelenSolovey/-PadawansTask6">PadawansTask6</a>
+
+
+
 
 
 
