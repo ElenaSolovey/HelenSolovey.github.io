@@ -30,6 +30,10 @@
 
 <a href = "https://github.com/HelenSolovey/-PadawansTask6">PadawansTask6</a>
 
+<a href = "https://github.com/HelenSolovey/-PadawansTask6">PadawansTask7</a>
+
+<a href = "https://github.com/HelenSolovey/-PadawansTask6">PadawansTask8</a>
+
 
 
 
