@@ -36,6 +36,7 @@
 
 <a href = "https://github.com/HelenSolovey/DemoProgect">DemoProgect</a>
 
+<a href = "https://www.codewars.com/users/HelenSolovey">Profile Codewars</a>
 
 
 
