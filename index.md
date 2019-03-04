@@ -36,7 +36,11 @@
 
 <a href = "https://github.com/HelenSolovey/DemoProgect">DemoProgect</a>
 
+#### CodeWars:
+
 <a href = "https://www.codewars.com/users/HelenSolovey">Profile Codewars</a>
+
+#### Grow:
 
 <a href="https://github.com/HelenSolovey/Collections">Collections</a>
 
